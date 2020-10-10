@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "247910310879",
+    "firebase_url": "https://sgplayout.firebaseio.com",
+    "project_id": "sgplayout",
+    "storage_bucket": "sgplayout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247910310879:android:1704e418221c857c0a9a6a",
+        "android_client_info": {
+          "package_name": "com.appofkirtan.sgplayout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247910310879-j2o68kqvao112gfbmc7rbg4s6arl1pf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appofkirtan.sgplayout",
+            "certificate_hash": "a48b74daaa6d7ac03c7a323d9a9de0deaf3552f9"
+          }
+        },
+        {
+          "client_id": "247910310879-7k4is0ceh1noctikjjorhqlfd36ln2m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appofkirtan.sgplayout",
+            "certificate_hash": "5f4c2bef52d1c23d8bf3e444ff7bdd58b7b0180b"
+          }
+        },
+        {
+          "client_id": "247910310879-uv2lqf2u5tcnjjbgsdrrcf9olse8tlvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-6uKF2nvWkPzcwvA4_1kjTItyaIB8B0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247910310879-uv2lqf2u5tcnjjbgsdrrcf9olse8tlvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
